@@ -1,0 +1,7 @@
+.sections-block{
+    display: flex;
+    flex-wrap: wrap;
+}
+.section{
+    width: 50%;
+}
